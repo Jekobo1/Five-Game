@@ -1,0 +1,10 @@
+C:\Users\Jekob\source\repos\Five\Five\bin\Debug\Five.exe.config
+C:\Users\Jekob\source\repos\Five\Five\bin\Debug\Five.exe
+C:\Users\Jekob\source\repos\Five\Five\bin\Debug\Five.pdb
+C:\Users\Jekob\source\repos\Five\Five\obj\Debug\Five.csprojAssemblyReference.cache
+C:\Users\Jekob\source\repos\Five\Five\obj\Debug\Five.Properties.Resources.resources
+C:\Users\Jekob\source\repos\Five\Five\obj\Debug\Five.csproj.GenerateResource.cache
+C:\Users\Jekob\source\repos\Five\Five\obj\Debug\Five.csproj.CoreCompileInputs.cache
+C:\Users\Jekob\source\repos\Five\Five\obj\Debug\Five.exe
+C:\Users\Jekob\source\repos\Five\Five\obj\Debug\Five.pdb
+C:\Users\Jekob\source\repos\Five\Five\obj\Debug\Five.Five.resources
